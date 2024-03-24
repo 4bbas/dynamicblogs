@@ -1,4 +1,8 @@
+## Requirements ##
 Flask
 gunicorn
-sqlalchemy
+flask-sqlalchemy
+#==2.4.3
 pymysql
+SQLAlchemy
+Flask-SQLAlchemy
